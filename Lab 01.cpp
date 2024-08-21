@@ -5,6 +5,6 @@
 
 int main()
 {
-    std::cout << "Hello I  like frank sinatra btw\n";
+    std::cout << "Hello I like frank sinatra btw\n";
 }
 
